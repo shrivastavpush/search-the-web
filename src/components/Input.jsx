@@ -20,8 +20,8 @@ const Input = () => {
                 />
             </label>
             <div className='flex items-center gap-4'>
-                <FaMicrophone className='w-5 h-5 font-bold' />
-                <SiGooglelens className='w-5 h-5 font-bold' />
+                <FaMicrophone className='w-5 h-5 font-bold cursor-pointer' />
+                <SiGooglelens className='w-5 h-5 font-bold cursor-pointer' />
             </div>
         </div>
     )
