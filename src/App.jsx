@@ -1,21 +1,15 @@
 import React from 'react'
-import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import Home from './pages/Home'
 import SearchedPage from './pages/SearchedPage'
-import { SearchProvider } from './context/useSearch'
-
-const queryClient = new QueryClient()
-
+import { useSearch } from './context/useSearch'
 const App = () => {
+
+    const { searchQuery } = useSearch()
+
     return (
-        <QueryClientProvider client={queryClient}>
-            <SearchProvider>
-                <div>
-                    <Home />
-                    <SearchedPage />
-                </div>
-            </SearchProvider>
-        </QueryClientProvider>
+        <>
+            {searchQuery ? <SearchedPage /> : <Home />}
+        </>
     )
 }
 

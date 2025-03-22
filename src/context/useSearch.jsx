@@ -8,17 +8,21 @@ export const useSearch = () => {
 }
 
 export const SearchProvider = ({ children }) => {
-    const [searchQuery, setSearchQuery] = useState('ipl 2025')
+    const [searchQuery, setSearchQuery] = useState('')
 
     // const { data, isLoading } = useFetch(searchQuery)
+
+    const handleSubmit = (e) => {
+        e.preventDefault()
+    }
 
     return (
         <SearchContext.Provider value={{
             searchQuery,
             setSearchQuery,
-            isLoading,
+            // isLoading,
             handleSubmit,
-            results: data?.organic_results || []
+            // results: data?.organic_results || []
         }}>
             {children}
         </SearchContext.Provider>
