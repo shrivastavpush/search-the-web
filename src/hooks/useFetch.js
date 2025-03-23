@@ -22,7 +22,9 @@ const useFetch = (initialQuery) => {
 
 const fetchData = async (query) => {
 
-    const url = `https://www.searchapi.io/api/v1/search?engine=google&api_key=${import.meta.env.VITE_SEARCH_API_KEY}&q=${query}`
+    // q=Coffee&location=India&google_domain=google.co.in&gl=in&hl=en
+
+    const url = `https://www.searchapi.io/api/v1/search?engine=google&api_key=${import.meta.env.VITE_SEARCH_API_KEY}&q=${query}&location=India&gl=in&hl=en`
 
     const response = await fetch(url)
     const data = await response.json()

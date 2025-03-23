@@ -1,0 +1,896 @@
+{
+  "search_metadata": {
+    "id": "67df7ed0d95c7ed40514fc2e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/155f5ff59df45df3/67df7ed0d95c7ed40514fc2e.json",
+    "created_at": "2025-03-23 03:24:00 UTC",
+    "processed_at": "2025-03-23 03:24:00 UTC",
+    "google_url": "https://www.google.co.in/search?q=Coffee&oq=Coffee&uule=w+CAIQICIFSW5kaWE&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/155f5ff59df45df3/67df7ed0d95c7ed40514fc2e.html",
+    "total_time_taken": 0.78
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Coffee",
+    "location_requested": "India",
+    "location_used": "India",
+    "google_domain": "google.co.in",
+    "hl": "en",
+    "gl": "in",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Coffee",
+    "total_results": 4130000000,
+    "time_taken_displayed": 0.46,
+    "organic_results_state": "Results for exact spelling",
+    "results_for": "India"
+  },
+  "knowledge_graph": {
+    "title": "Coffee",
+    "type": "Beverage",
+    "entity_type": "related_questions",
+    "kgmid": "/m/02vqfm",
+    "knowledge_graph_search_link": "https://www.google.co.in/search?kgmid=/m/02vqfm&hl=en-IN&q=Coffee",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en-IN&kgmid=%2Fm%2F02vqfm&location=India&q=Coffee",
+    "sources_include": "USDAUSDAUSDAUSDAUSDAUSDAUSDACoffee0 Calories - 100 grams",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171890/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171889/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171891/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/171893/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/174134/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/fdc-app.html#/food-details/174135/nutrients"
+      }
+    ],
+    "web_results": [
+      {
+        "snippet": "Coffee is a beverage brewed from roasted, ground coffee beans. Darkly colored, bitter, and slightly acidic, coffee has a stimulating effect on humans, primarily due to its caffeine content, but decaffeinated coffee is also commercially available. There are also various coffee substitutes. Wikipedia... Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Coffee"
+      },
+      {
+        "title": "Color",
+        "snippet": "Black, dark brown, light brown, beige",
+        "link": "https://www.google.co.in/search?sca_esv=3792e63440ca6429&hl=en&gl=in&q=coffee+color&stick=H4sIAAAAAAAAAOPgE-LUz9U3MCorTMvVEiouttIvT01KS0wuKbZKzs_JL1rEypOcn5aWmqoA5gIAL6tTPDAAAAA&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQ18AJegQIQhAB"
+      },
+      {
+        "title": "Flavor",
+        "snippet": "Distinctive, somewhat bitter",
+        "link": "https://www.google.co.in/search?sca_esv=3792e63440ca6429&hl=en&gl=in&q=coffee+flavor&stick=H4sIAAAAAAAAAOPgE-LUz9U3MCorTMvVEi4uttIvT01KS0wuKbZKy0ksyy9axMqbnJ-WlpqqAOEDAJ4Y5wIyAAAA&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQ18AJegQIRxAB"
+      }
+    ],
+    "list": {
+      "total_fat": [
+        "0 g",
+        "0%"
+      ],
+      "cholesterol": [
+        "0 mg",
+        "0%"
+      ],
+      "sodium": [
+        "2 mg",
+        "0%"
+      ],
+      "potassium": [
+        "49 mg",
+        "1%"
+      ],
+      "total_carbohydrate": [
+        "0 g",
+        "0%"
+      ],
+      "protein": [
+        "0.1 g",
+        "0%"
+      ],
+      "caffeine": [
+        "40 mg"
+      ]
+    }
+  },
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/2c1f6224a96e01b85d49824ab2bb23cd4a167cb017ce13c94d827c289b0e973d.webp",
+      "source_logo": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/2c1f6224a96e01b85d49824ab2bb23cd355cdc552364225d8b9cc204b808bd913d3bc6e80607e06b.png",
+      "source": "Amazon.in",
+      "title": "Davidoff Coffee Rich Aroma",
+      "reviews": 1900,
+      "price": "₹645",
+      "extracted_price": 645,
+      "delivery": "Get it by Fri (Free)",
+      "immersive_product_page_token": "eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc2OTY3ODg1NzQ1MjM0MjIzNjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzNDMzMzUxNzI1OTEzOTc3IiwiaW1hZ2VEb2NpZCI6IjU5MjcyNDAyMTQ5NjMyMDAxOTQiLCJyZHMiOiJQQ180NTIyNDYwMDA0NDY1NzU0ODk4fFBST0RfUENfNDUyMjQ2MDAwNDQ2NTc1NDg5OCIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiI0NTIyNDYwMDA0NDY1NzU0ODk4IiwibWlkIjoiNTc2NDYyMzE5OTI4NDg5OTEzIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc2OTY3ODg1NzQ1MjM0MjIzNjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzNDMzMzUxNzI1OTEzOTc3IiwiaW1hZ2VEb2NpZCI6IjU5MjcyNDAyMTQ5NjMyMDAxOTQiLCJyZHMiOiJQQ180NTIyNDYwMDA0NDY1NzU0ODk4fFBST0RfUENfNDUyMjQ2MDAwNDQ2NTc1NDg5OCIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiI0NTIyNDYwMDA0NDY1NzU0ODk4IiwibWlkIjoiNTc2NDYyMzE5OTI4NDg5OTEzIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UifQ%3D%3D",
+      "product_id": "17696788574523422365",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=17696788574523422365"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/2c1f6224a96e01b85d49824ab2bb23cd364c146707edd4260fbd8d209eb49b54.webp",
+      "source_logo": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/2c1f6224a96e01b85d49824ab2bb23cdad2f84cbcdd751d64a98bc9de8e507156cdb8fd29a6b566a.png",
+      "source": "Blinkit",
+      "title": "Nescafe Classic Instant Coffee Powder Stickpack - 72 x 0.9 g",
+      "price": "₹144",
+      "extracted_price": 144,
+      "delivery": "Get it today (Free)",
+      "immersive_product_page_token": "eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiMTQ1MTkzNDU0OTQ1MzQ1MjQ0MzMiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDUxOTM0NTQ5NDUzNDUyNDQzMyIsImltYWdlRG9jaWQiOiI4MTcxMzk2MDg3ODc0MDk0NjY4IiwicmRzIjoiIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiMTQ1MTkzNDU0OTQ1MzQ1MjQ0MzMiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDUxOTM0NTQ5NDUzNDUyNDQzMyIsImltYWdlRG9jaWQiOiI4MTcxMzk2MDg3ODc0MDk0NjY4IiwicmRzIjoiIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIn0%3D",
+      "product_id": "14519345494534524433",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=14519345494534524433"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/2c1f6224a96e01b85d49824ab2bb23cd281ee187f8c1fd1d04a90a96e5dfd396.webp",
+      "source_logo": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/2c1f6224a96e01b85d49824ab2bb23cd7b762ae692dbee034f7f053b5e01d3d3187ec003678ff1c4.png",
+      "source": "Swiggy Instamart",
+      "title": "Bevzilla Instant Coffee Powder Sachets",
+      "reviews": 2,
+      "price": "₹199",
+      "extracted_price": 199,
+      "original_price": "₹225",
+      "extracted_original_price": 225,
+      "delivery": "Get it today (Free)",
+      "immersive_product_page_token": "eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjg2Nzk3MzU3MjU4ODkyMTc2MiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ2NDc1NTIyNDAwNjIyMzcwNDkiLCJpbWFnZURvY2lkIjoiOTM4NTE4MjAwMTkyNzMxOTQxMiIsInJkcyI6IlBDXzE0NjQ0MDExMjA1OTk1MDI1NTM4fFBST0RfUENfMTQ2NDQwMTEyMDU5OTUwMjU1MzgiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTQ2NDQwMTEyMDU5OTUwMjU1MzgiLCJtaWQiOiI1NzY0NjI1MDI2MjE4Mzk1NDAiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjg2Nzk3MzU3MjU4ODkyMTc2MiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ2NDc1NTIyNDAwNjIyMzcwNDkiLCJpbWFnZURvY2lkIjoiOTM4NTE4MjAwMTkyNzMxOTQxMiIsInJkcyI6IlBDXzE0NjQ0MDExMjA1OTk1MDI1NTM4fFBST0RfUENfMTQ2NDQwMTEyMDU5OTUwMjU1MzgiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTQ2NDQwMTEyMDU5OTUwMjU1MzgiLCJtaWQiOiI1NzY0NjI1MDI2MjE4Mzk1NDAiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSJ9",
+      "product_id": "6867973572588921762",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=6867973572588921762"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/2c1f6224a96e01b85d49824ab2bb23cd31c11d0755fdc1749d249993747d94e0.webp",
+      "source_logo": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/2c1f6224a96e01b85d49824ab2bb23cd1704d3b67d30d0cfebb26de8d29429d552c57d3d6d783340.png",
+      "source": "bigbasket.com",
+      "title": "Nescafe Classic Coffee Glass Jar 50g",
+      "reviews": 1,
+      "price": "₹215",
+      "extracted_price": 215,
+      "delivery": "Free delivery on ₹299+",
+      "immersive_product_page_token": "eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUwNjY2MDc0MTQ5MjI3NDAxNjMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI3NzIyNzkyODk4NjU5MDg5MzciLCJpbWFnZURvY2lkIjoiODA2OTQ5MjQzMjQ3ODczNzE1MSIsInJkcyI6IlBDXzI1MTg1MzM1NzM5NTE2Njg0MzR8UFJPRF9QQ18yNTE4NTMzNTczOTUxNjY4NDM0IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjI1MTg1MzM1NzM5NTE2Njg0MzQiLCJtaWQiOiI1NzY0NjI4NTgyMzA5MTc5MTkiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUwNjY2MDc0MTQ5MjI3NDAxNjMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI3NzIyNzkyODk4NjU5MDg5MzciLCJpbWFnZURvY2lkIjoiODA2OTQ5MjQzMjQ3ODczNzE1MSIsInJkcyI6IlBDXzI1MTg1MzM1NzM5NTE2Njg0MzR8UFJPRF9QQ18yNTE4NTMzNTczOTUxNjY4NDM0IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjI1MTg1MzM1NzM5NTE2Njg0MzQiLCJtaWQiOiI1NzY0NjI4NTgyMzA5MTc5MTkiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSJ9",
+      "product_id": "15066607414922740163",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=15066607414922740163"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/2c1f6224a96e01b85d49824ab2bb23cdad486ad27851beb13770b2c5c0a8e7fd.webp",
+      "source_logo": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/2c1f6224a96e01b85d49824ab2bb23cd31714d187cdb48572610e13d0ce8363e4ba1272199cd9238.png",
+      "source": "meesho.com",
+      "title": "Bevzilla Instant Coffee Powder",
+      "price": "₹283",
+      "extracted_price": 283,
+      "immersive_product_page_token": "eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTQ2MTI1NjM1NzgzMzUwNjYxNiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY1NjI1OTg4OTE0MjM4OTEyNjMiLCJpbWFnZURvY2lkIjoiMTA1OTk2ODA2MTYwOTgwNTA2MCIsInJkcyI6IiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxMTg5OTQ2OTUyNjAwMzc0MzkwMCIsIm1pZCI6IjU3NjQ2MjQ3MzMzMTc3MDgyOSIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTQ2MTI1NjM1NzgzMzUwNjYxNiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY1NjI1OTg4OTE0MjM4OTEyNjMiLCJpbWFnZURvY2lkIjoiMTA1OTk2ODA2MTYwOTgwNTA2MCIsInJkcyI6IiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxMTg5OTQ2OTUyNjAwMzc0MzkwMCIsIm1pZCI6IjU3NjQ2MjQ3MzMzMTc3MDgyOSIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIn0%3D",
+      "product_id": "5461256357833506616",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=5461256357833506616"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRT1aV6aiggAgtAuwwd8uJ7VFJZf6pvWlINcEl22uw60_UIslvP-seaJp1vsHNspFLZ8O4c8QtDObhhdnbJNhrctLBg5Zv9Q3lOemVvwr82ufTV71Kbjk4BTQ",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+      "source": "Amazon.in",
+      "title": "Nescafe Gold Blend Coffee",
+      "reviews": 35000,
+      "price": "₹545",
+      "extracted_price": 545,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTEyMjkyNTg5OTA0ODAxNTA4OTYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjU5ODA3NDg0MzA1MTIyMzE4NyIsImltYWdlRG9jaWQiOiIxMDUzMjYwMzA3MDM5ODE3NjA3MCIsInJkcyI6IlBDXzExNDU5Mjg0MzA1OTA3NzcwNzA2fFBST0RfUENfMTE0NTkyODQzMDU5MDc3NzA3MDYiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTE0NTkyODQzMDU5MDc3NzA3MDYiLCJtaWQiOiI1NzY0NjI0NzI3MTQzMDg4NDIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTEyMjkyNTg5OTA0ODAxNTA4OTYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjU5ODA3NDg0MzA1MTIyMzE4NyIsImltYWdlRG9jaWQiOiIxMDUzMjYwMzA3MDM5ODE3NjA3MCIsInJkcyI6IlBDXzExNDU5Mjg0MzA1OTA3NzcwNzA2fFBST0RfUENfMTE0NTkyODQzMDU5MDc3NzA3MDYiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTE0NTkyODQzMDU5MDc3NzA3MDYiLCJtaWQiOiI1NzY0NjI0NzI3MTQzMDg4NDIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSJ9",
+      "product_id": "11229258990480150896",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=11229258990480150896"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQt6F3Vp5sN01GY2vI6DVvPJgJfwD2GKUoV7NCH4UZeOetLIl-uvAlzCf7U9ouOglMXDSWgFzLkrI77Jq6O-7RTbWcD6aLeoPUqcqRAmagIpWPhWxZwDP0GsSg",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTqdXNoVinnk1wOnE24Kev2B9GpDFxoH7KxGlLHYGOFp-IOMUD5uL7Y5ksQ2uS-Ce5rl2xah7rNl_45mfPjftFwwADwvRr0fqqR",
+      "source": "Zepto",
+      "title": "Bru Instant Coffee",
+      "reviews": 88,
+      "price": "₹165",
+      "extracted_price": 165,
+      "delivery": "Get it today (Free)",
+      "immersive_product_page_token": "eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjgzOTc0MjM2Njc4NzY3OTM1MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzNTMyNzExMjk0NTQ5NDM0ODU4IiwiaW1hZ2VEb2NpZCI6IjEwNDYzMDYzMjk0MjM1ODU5MTQzIiwicmRzIjoiUENfMTM0ODkwNzk4Njk0MzgwMjAzMDJ8UFJPRF9QQ18xMzQ4OTA3OTg2OTQzODAyMDMwMiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxMzQ4OTA3OTg2OTQzODAyMDMwMiIsIm1pZCI6IjU3NjQ2Mjg1OTU4NTAwMDY1OCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjgzOTc0MjM2Njc4NzY3OTM1MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzNTMyNzExMjk0NTQ5NDM0ODU4IiwiaW1hZ2VEb2NpZCI6IjEwNDYzMDYzMjk0MjM1ODU5MTQzIiwicmRzIjoiUENfMTM0ODkwNzk4Njk0MzgwMjAzMDJ8UFJPRF9QQ18xMzQ4OTA3OTg2OTQzODAyMDMwMiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxMzQ4OTA3OTg2OTQzODAyMDMwMiIsIm1pZCI6IjU3NjQ2Mjg1OTU4NTAwMDY1OCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIn0%3D",
+      "product_id": "6839742366787679350",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=6839742366787679350"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR21TZN9fCfg53p1f0pCzHeuSnP_J4VvvKY_SM0u-2pH1L1jh2LcwOhQEwHDreG-VRRu1klZuFeSlj1s2WyH6f1HH8lQiYgKJ18V9nHxtTSw2cfsF_OxsYuvQ",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ85n3y8ge2SsYxdqGPZqZN9i8O4IBKkleUuoCbj0eVP4wdfTBVs12o8fQoGj8aMeKYZT1OeDJ-k2leYJCZpRFF41gZe7wHCg",
+      "source": "Swiggy Instamart",
+      "title": "24 Flavoured Coffee Sachets",
+      "price": "₹99",
+      "extracted_price": 99,
+      "original_price": "₹120",
+      "extracted_original_price": 120,
+      "delivery": "Get it today (Free)",
+      "immersive_product_page_token": "eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM2NjQ2MjQxMTY1MTYxMTQ5OTQiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTQ0ODA5ODcyNTY1ODY1NzY5NSIsImltYWdlRG9jaWQiOiIzODI5MTk4MTg0MzA3NTQ4OTE2IiwicmRzIjoiIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjExOTQzNjExNDI2OTcwNzY0ODAwIiwibWlkIjoiNTc2NDYyODAxMjY5OTk4MTc4IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM2NjQ2MjQxMTY1MTYxMTQ5OTQiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTQ0ODA5ODcyNTY1ODY1NzY5NSIsImltYWdlRG9jaWQiOiIzODI5MTk4MTg0MzA3NTQ4OTE2IiwicmRzIjoiIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjExOTQzNjExNDI2OTcwNzY0ODAwIiwibWlkIjoiNTc2NDYyODAxMjY5OTk4MTc4IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UifQ%3D%3D",
+      "product_id": "13664624116516114994",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=13664624116516114994"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcToDYFYh1z3JtbBXRsnb8e0pBrwJlAlwFmFulXiLllhzIr2WKXKx7nXch_JiTI1JSmsuawPWgvjeUaD_y4ulvMUaggb3LbX84vXsfDY6kPm_YNO4kUlPhGw",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ4hS5KQ74135NIV7gSpRHEcA-FSw80nnO2HrOkt_HKvEquXvpAtLbPVBsoNERjkZs2OXcDS1miV7vv2t9yiuakYY3VTuDUPT0",
+      "source": "Flipkart",
+      "title": "Bevzilla Instant Coffee Powder 96 Sachets Hazelnut",
+      "reviews": 1,
+      "price": "₹351",
+      "extracted_price": 351,
+      "delivery": "Get it by 4 Apr (Free)",
+      "immersive_product_page_token": "eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA0MTA5NjY1MTc5MjY0MzE2MDEiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI1NzIxNTAyNDk0OTQ0MzQxNjgyIiwiaW1hZ2VEb2NpZCI6IjIzNjY1NTk1MTM1OTUyNDMxMDciLCJyZHMiOiJQQ18xMzYxNTIxMjUwNjczNTY3NzM5OHxQUk9EX1BDXzEzNjE1MjEyNTA2NzM1Njc3Mzk4IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjEzNjE1MjEyNTA2NzM1Njc3Mzk4IiwibWlkIjoiNTc2NDYyNzgxOTE0OTMzMDE0IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA0MTA5NjY1MTc5MjY0MzE2MDEiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI1NzIxNTAyNDk0OTQ0MzQxNjgyIiwiaW1hZ2VEb2NpZCI6IjIzNjY1NTk1MTM1OTUyNDMxMDciLCJyZHMiOiJQQ18xMzYxNTIxMjUwNjczNTY3NzM5OHxQUk9EX1BDXzEzNjE1MjEyNTA2NzM1Njc3Mzk4IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjEzNjE1MjEyNTA2NzM1Njc3Mzk4IiwibWlkIjoiNTc2NDYyNzgxOTE0OTMzMDE0IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UifQ%3D%3D",
+      "product_id": "10410966517926431601",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=10410966517926431601"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQFVtL4o9HE7KohoN0LdJZ-nJejlDPt4S2ml3ZKOlW97_jeh1iCud327TIUGR-RQJeumF83sp7hHSUTSaiNQkFQSDS0opUbBd4B9jxHjaw",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTqgYl3U5d0wwsfAGkgsno13PzKR60LCjgui4RRabD5EC4FKSY4iXMYG740T5ydkGgFS0vazlDOnKwWh1P_6nxbHh6te6vA",
+      "source": "bigbasket.com",
+      "title": "Nescafe Classic Instant Coffee - 100% Pure, Rich & Soluble Powder, 3.5 g",
+      "reviews": 1,
+      "price": "₹10",
+      "extracted_price": 10,
+      "immersive_product_page_token": "eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiNDc0MjQ0ODI1MTIwODMzMzg1NCIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ3NDI0NDgyNTEyMDgzMzM4NTQiLCJpbWFnZURvY2lkIjoiOTI3OTMzMTcxMjIyNTk4MjYzMCIsInJkcyI6IlBDXzI1MTg1MzM1NzM5NTE2Njg0MzR8UFJPRF9QQ18yNTE4NTMzNTczOTUxNjY4NDM0IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiNDc0MjQ0ODI1MTIwODMzMzg1NCIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ3NDI0NDgyNTEyMDgzMzM4NTQiLCJpbWFnZURvY2lkIjoiOTI3OTMzMTcxMjIyNTk4MjYzMCIsInJkcyI6IlBDXzI1MTg1MzM1NzM5NTE2Njg0MzR8UFJPRF9QQ18yNTE4NTMzNTczOTUxNjY4NDM0IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIn0%3D",
+      "product_id": "4742448251208333854",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=4742448251208333854"
+    },
+    {
+      "category": "Under ₹450",
+      "thumbnail": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/2c1f6224a96e01b85d49824ab2bb23cdca1d8ac4844916a76177da421b1c1bfc.webp",
+      "source_logo": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/2c1f6224a96e01b85d49824ab2bb23cdcc715703d7fa779d76fcb888e3d2e733ecbd20bf276cc722.png",
+      "source": "Blinkit",
+      "title": "Nescafe Classic Instant Coffee Powder Stickpack - 72 x 0.9 g",
+      "price": "₹144",
+      "extracted_price": 144,
+      "delivery": "Get it today (Free)",
+      "immersive_product_page_token": "eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiMTQ1MTkzNDU0OTQ1MzQ1MjQ0MzMiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDUxOTM0NTQ5NDUzNDUyNDQzMyIsImltYWdlRG9jaWQiOiI4MTcxMzk2MDg3ODc0MDk0NjY4IiwicmRzIjoiIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiMTQ1MTkzNDU0OTQ1MzQ1MjQ0MzMiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDUxOTM0NTQ5NDUzNDUyNDQzMyIsImltYWdlRG9jaWQiOiI4MTcxMzk2MDg3ODc0MDk0NjY4IiwicmRzIjoiIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIn0%3D",
+      "product_id": "14519345494534524433",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=14519345494534524433"
+    },
+    {
+      "category": "Under ₹450",
+      "thumbnail": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/2c1f6224a96e01b85d49824ab2bb23cda679fd5fd933f1e571a269aff226c9e8.webp",
+      "source_logo": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/2c1f6224a96e01b85d49824ab2bb23cd3930bf142c649955ec6af249827bcca90f39fc4bc3fb2c1d.png",
+      "source": "amazon.in",
+      "title": "Bevzilla Instant Coffee Gift Box",
+      "price": "₹269",
+      "extracted_price": 269,
+      "immersive_product_page_token": "eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODcwOTYzMDUxNTY5MTY1NzkzMiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUyMTMwMjY3OTkyMzg5NDYwMzEiLCJpbWFnZURvY2lkIjoiMzM3OTQ0ODQ5NTg2NzUzMzI0MiIsInJkcyI6IiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxNzg5OTI1Nzg1MDIwMzk2ODU0OSIsIm1pZCI6IjU3NjQ2MjUwMjYyNDY5MTUxNSIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODcwOTYzMDUxNTY5MTY1NzkzMiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjUyMTMwMjY3OTkyMzg5NDYwMzEiLCJpbWFnZURvY2lkIjoiMzM3OTQ0ODQ5NTg2NzUzMzI0MiIsInJkcyI6IiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxNzg5OTI1Nzg1MDIwMzk2ODU0OSIsIm1pZCI6IjU3NjQ2MjUwMjYyNDY5MTUxNSIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIn0%3D",
+      "product_id": "8709630515691657932",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=8709630515691657932"
+    },
+    {
+      "category": "Under ₹450",
+      "thumbnail": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/2c1f6224a96e01b85d49824ab2bb23cd189b7e6470bbb80015a85662c5e6a8d3.webp",
+      "source_logo": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/2c1f6224a96e01b85d49824ab2bb23cdf738e92a01024ebd5fde00d2bf781986bb8d615cb3676fbc.png",
+      "source": "Swiggy Instamart",
+      "title": "Bevzilla Instant Coffee Powder Sachets",
+      "reviews": 2,
+      "price": "₹199",
+      "extracted_price": 199,
+      "original_price": "₹225",
+      "extracted_original_price": 225,
+      "delivery": "Get it today (Free)",
+      "immersive_product_page_token": "eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjg2Nzk3MzU3MjU4ODkyMTc2MiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ2NDc1NTIyNDAwNjIyMzcwNDkiLCJpbWFnZURvY2lkIjoiOTM4NTE4MjAwMTkyNzMxOTQxMiIsInJkcyI6IlBDXzE0NjQ0MDExMjA1OTk1MDI1NTM4fFBST0RfUENfMTQ2NDQwMTEyMDU5OTUwMjU1MzgiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTQ2NDQwMTEyMDU5OTUwMjU1MzgiLCJtaWQiOiI1NzY0NjI1MDI2MjE4Mzk1NDAiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjg2Nzk3MzU3MjU4ODkyMTc2MiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ2NDc1NTIyNDAwNjIyMzcwNDkiLCJpbWFnZURvY2lkIjoiOTM4NTE4MjAwMTkyNzMxOTQxMiIsInJkcyI6IlBDXzE0NjQ0MDExMjA1OTk1MDI1NTM4fFBST0RfUENfMTQ2NDQwMTEyMDU5OTUwMjU1MzgiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTQ2NDQwMTEyMDU5OTUwMjU1MzgiLCJtaWQiOiI1NzY0NjI1MDI2MjE4Mzk1NDAiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSJ9",
+      "product_id": "6867973572588921762",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=6867973572588921762"
+    },
+    {
+      "category": "Under ₹450",
+      "thumbnail": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/2c1f6224a96e01b85d49824ab2bb23cd4403832fae832edf2e2ffa0ff12425d4.webp",
+      "source_logo": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/2c1f6224a96e01b85d49824ab2bb23cd1680c13aba8d7b35280bff39d5492c54af4a9688f0e21b93.png",
+      "source": "bigbasket.com",
+      "title": "Nescafe Classic Coffee Glass Jar 50g",
+      "reviews": 1,
+      "price": "₹215",
+      "extracted_price": 215,
+      "delivery": "Free delivery on ₹299+",
+      "immersive_product_page_token": "eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUwNjY2MDc0MTQ5MjI3NDAxNjMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI3NzIyNzkyODk4NjU5MDg5MzciLCJpbWFnZURvY2lkIjoiODA2OTQ5MjQzMjQ3ODczNzE1MSIsInJkcyI6IlBDXzI1MTg1MzM1NzM5NTE2Njg0MzR8UFJPRF9QQ18yNTE4NTMzNTczOTUxNjY4NDM0IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjI1MTg1MzM1NzM5NTE2Njg0MzQiLCJtaWQiOiI1NzY0NjI4NTgyMzA5MTc5MTkiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUwNjY2MDc0MTQ5MjI3NDAxNjMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI3NzIyNzkyODk4NjU5MDg5MzciLCJpbWFnZURvY2lkIjoiODA2OTQ5MjQzMjQ3ODczNzE1MSIsInJkcyI6IlBDXzI1MTg1MzM1NzM5NTE2Njg0MzR8UFJPRF9QQ18yNTE4NTMzNTczOTUxNjY4NDM0IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjI1MTg1MzM1NzM5NTE2Njg0MzQiLCJtaWQiOiI1NzY0NjI4NTgyMzA5MTc5MTkiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSJ9",
+      "product_id": "15066607414922740163",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=15066607414922740163"
+    },
+    {
+      "category": "Under ₹450",
+      "thumbnail": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/2c1f6224a96e01b85d49824ab2bb23cdda053252bef169e89f65fcd4e5ff424d.webp",
+      "source_logo": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/2c1f6224a96e01b85d49824ab2bb23cdc42de39b16782efc65e73b371e9dc478c37d4b50f11239fa.png",
+      "source": "Zepto",
+      "title": "Bru Instant Coffee",
+      "reviews": 88,
+      "price": "₹165",
+      "extracted_price": 165,
+      "delivery": "Get it today (Free)",
+      "immersive_product_page_token": "eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjgzOTc0MjM2Njc4NzY3OTM1MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzNTMyNzExMjk0NTQ5NDM0ODU4IiwiaW1hZ2VEb2NpZCI6IjEwNDYzMDYzMjk0MjM1ODU5MTQzIiwicmRzIjoiUENfMTM0ODkwNzk4Njk0MzgwMjAzMDJ8UFJPRF9QQ18xMzQ4OTA3OTg2OTQzODAyMDMwMiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxMzQ4OTA3OTg2OTQzODAyMDMwMiIsIm1pZCI6IjU3NjQ2Mjg1OTU4NTAwMDY1OCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjgzOTc0MjM2Njc4NzY3OTM1MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzNTMyNzExMjk0NTQ5NDM0ODU4IiwiaW1hZ2VEb2NpZCI6IjEwNDYzMDYzMjk0MjM1ODU5MTQzIiwicmRzIjoiUENfMTM0ODkwNzk4Njk0MzgwMjAzMDJ8UFJPRF9QQ18xMzQ4OTA3OTg2OTQzODAyMDMwMiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxMzQ4OTA3OTg2OTQzODAyMDMwMiIsIm1pZCI6IjU3NjQ2Mjg1OTU4NTAwMDY1OCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIn0%3D",
+      "product_id": "6839742366787679350",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=6839742366787679350"
+    },
+    {
+      "category": "₹450 - ₹1,500",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQvDNjt-VVPORyHhbBXWeY3Acg3mfC06EfaBjiJHSEZdcvuSPsHKzoE--6XlqE8p3Iug9OOa30F4dBtLZ9UyL7NkZB_U7I1eJrH5cg9SInFbkjJmmNrSVw",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+      "source": "Amazon.in",
+      "title": "Davidoff Coffee Rich Aroma",
+      "reviews": 1900,
+      "price": "₹645",
+      "extracted_price": 645,
+      "delivery": "Get it by Fri (Free)",
+      "immersive_product_page_token": "eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc2OTY3ODg1NzQ1MjM0MjIzNjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzNDMzMzUxNzI1OTEzOTc3IiwiaW1hZ2VEb2NpZCI6IjU5MjcyNDAyMTQ5NjMyMDAxOTQiLCJyZHMiOiJQQ180NTIyNDYwMDA0NDY1NzU0ODk4fFBST0RfUENfNDUyMjQ2MDAwNDQ2NTc1NDg5OCIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiI0NTIyNDYwMDA0NDY1NzU0ODk4IiwibWlkIjoiNTc2NDYyMzE5OTI4NDg5OTEzIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc2OTY3ODg1NzQ1MjM0MjIzNjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzNDMzMzUxNzI1OTEzOTc3IiwiaW1hZ2VEb2NpZCI6IjU5MjcyNDAyMTQ5NjMyMDAxOTQiLCJyZHMiOiJQQ180NTIyNDYwMDA0NDY1NzU0ODk4fFBST0RfUENfNDUyMjQ2MDAwNDQ2NTc1NDg5OCIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiI0NTIyNDYwMDA0NDY1NzU0ODk4IiwibWlkIjoiNTc2NDYyMzE5OTI4NDg5OTEzIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UifQ%3D%3D",
+      "product_id": "17696788574523422365",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=17696788574523422365"
+    },
+    {
+      "category": "₹450 - ₹1,500",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSq-5WwcMZZQwZ8a752zfH75r9paAAOcQt9RjEexwQJI-_rQPvY-6Q5-KNXoo5CKef_BNUoUDZ3so6IzqTMbyqIY9TAt27TZoglKQwhOkI",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTt3ubzb9h8jPyjBh_u1U0hnO4PlsB8gN2XDnLPlXdWDJdIfKgB6Go3bQw_nElPTAG1tiy1HSCWW0Ngp7ANFEAIeMZ6_j2p9qXUrSX6",
+      "source": "Blue Tokai Coffee Roasters",
+      "title": "Silver Oak Cafe Blend Arabica Coffee",
+      "price": "₹540",
+      "extracted_price": 540,
+      "delivery": "Get it by 4 Apr (Free)",
+      "immersive_product_page_token": "eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ1NTgwNDk5NTcwOTEwODAyMzUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjUyNzg3ODk4MDkzNTM2NTUzOSIsImltYWdlRG9jaWQiOiIxNTUxMzc1NzQ5NTk2OTM0ODAxMCIsInJkcyI6IiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxMTYwMjc5NTM1NDI4NTU1MTMiLCJtaWQiOiI1NzY0NjI3ODk5OTc1NTIwNjIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ1NTgwNDk5NTcwOTEwODAyMzUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjUyNzg3ODk4MDkzNTM2NTUzOSIsImltYWdlRG9jaWQiOiIxNTUxMzc1NzQ5NTk2OTM0ODAxMCIsInJkcyI6IiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxMTYwMjc5NTM1NDI4NTU1MTMiLCJtaWQiOiI1NzY0NjI3ODk5OTc1NTIwNjIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSJ9",
+      "product_id": "14558049957091080235",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=14558049957091080235"
+    },
+    {
+      "category": "₹450 - ₹1,500",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQcR667zA_aKB89IvFQ49s592dHsOT6hbasC3DTFCtyPTsWlaPq_YAhDBOEvzgdMwQRbd-WXO4o2gcy_XgmOAoJGdk_kw_b1pZt1DetZbayaxZOPRfckUmF",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTMaBvupFuFRCB7Mr3nPjqKeBgTvONHyFqsZvEoEWk7ocYXNRvhkQs4CUTDEcGl2N-D2KMRCIB-YeiSkP2by65-cx_VKA",
+      "source": "Blinkit",
+      "title": "Blue Tokai Coffee Roasters Vienna Roast Dark Roast Grind",
+      "reviews": 1,
+      "price": "₹470",
+      "extracted_price": 470,
+      "delivery": "Get it today (Free)",
+      "immersive_product_page_token": "eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA4NzA5Njc1NjExODk1NTM5MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQxODU5Mjk2NDQwOTk1ODUwNjgiLCJpbWFnZURvY2lkIjoiMTI3OTI0ODA5MTAxNDgyNjUzOTMiLCJyZHMiOiJQQ18xMjQ3MzA3OTMzNTMwMDc4NTAyMXxQUk9EX1BDXzEyNDczMDc5MzM1MzAwNzg1MDIxIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjEyNDczMDc5MzM1MzAwNzg1MDIxIiwibWlkIjoiNTc2NDYyNzAwMDQyODMxMzcxIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA4NzA5Njc1NjExODk1NTM5MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQxODU5Mjk2NDQwOTk1ODUwNjgiLCJpbWFnZURvY2lkIjoiMTI3OTI0ODA5MTAxNDgyNjUzOTMiLCJyZHMiOiJQQ18xMjQ3MzA3OTMzNTMwMDc4NTAyMXxQUk9EX1BDXzEyNDczMDc5MzM1MzAwNzg1MDIxIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjEyNDczMDc5MzM1MzAwNzg1MDIxIiwibWlkIjoiNTc2NDYyNzAwMDQyODMxMzcxIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UifQ%3D%3D",
+      "product_id": "1087096756118955390",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=1087096756118955390"
+    },
+    {
+      "category": "₹450 - ₹1,500",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRL779UdFMSwe4WfuSAuDsTl6Llz0i9DryG40Fik2ewchyA6jgknD98MteI1ax-G4VJYlxk8jSwAxa7P-6GOR_Xevi8XBLXU4Vx2szltA",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ4hS5KQ74135NIV7gSpRHEcA-FSw80nnO2HrOkt_HKvEquXvpAtLbPVBsoNERjkZs2OXcDS1miV7vv2t9yiuakYY3VTuDUPT0",
+      "source": "Flipkart",
+      "title": "Nescafe Classic Coffee, 200g Dawn Jar Instant Coffee",
+      "reviews": 1,
+      "price": "₹691",
+      "extracted_price": 691,
+      "immersive_product_page_token": "eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiMTE0MDI5MDg2NjczNTI2NDIwNTIiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTQwMjkwODY2NzM1MjY0MjA1MiIsImltYWdlRG9jaWQiOiI2OTQxNzIyMzgxNDcxNTYwOTQzIiwicmRzIjoiUENfMjUxODUzMzU3Mzk1MTY2ODQzNHxQUk9EX1BDXzI1MTg1MzM1NzM5NTE2Njg0MzQiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiMTE0MDI5MDg2NjczNTI2NDIwNTIiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTQwMjkwODY2NzM1MjY0MjA1MiIsImltYWdlRG9jaWQiOiI2OTQxNzIyMzgxNDcxNTYwOTQzIiwicmRzIjoiUENfMjUxODUzMzU3Mzk1MTY2ODQzNHxQUk9EX1BDXzI1MTg1MzM1NzM5NTE2Njg0MzQiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UifQ%3D%3D",
+      "product_id": "11402908667352642052",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=11402908667352642052"
+    },
+    {
+      "category": "₹450 - ₹1,500",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTHDUqobmkZxul86EFSEOgJqinUCMHIE6ZD4vTGwelszX1zVMRiHHUE3PfKE_1iQ0EuG4cFEQCYK6GW9B8eTnIsFPQDxHL8jlrteXloCph-D7ns5fuXueL3xQ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSUl0BKAiYAVE03qSZ1tLso29yeFUeNib3xJDPQOX1skYeA5UmnqzNIcLzIncSOFxiaKmDL66F4FjpkFeOJJ-JqaipDUti8RGSQ9g",
+      "source": "bigbasket.com",
+      "title": "NESCAFE CLASSIC COFFEE 200",
+      "price": "₹999",
+      "extracted_price": 999,
+      "delivery": "Get it today (Free)",
+      "immersive_product_page_token": "eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjYwOTE5NjEwNTE2MTczNjU0NCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjkzNzUwNDMxNDUwNzI3MDkwMDkiLCJpbWFnZURvY2lkIjoiMTQ0MTYzNDM1NzM0OTc5NTAyNTciLCJyZHMiOiIiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTYzMzk5NTc4NDQ0Njc1NDQ2OTUiLCJtaWQiOiI1NzY0NjI4MDgwNTM3MjY0OTciLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBIN2ZaNmlySk1xeTVOb1A3NmY2MkFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjYwOTE5NjEwNTE2MTczNjU0NCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjkzNzUwNDMxNDUwNzI3MDkwMDkiLCJpbWFnZURvY2lkIjoiMTQ0MTYzNDM1NzM0OTc5NTAyNTciLCJyZHMiOiIiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTYzMzk5NTc4NDQ0Njc1NDQ2OTUiLCJtaWQiOiI1NzY0NjI4MDgwNTM3MjY0OTciLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSJ9",
+      "product_id": "2609196105161736544",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=2609196105161736544"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is coffee good or bad for health?",
+      "snippet": "",
+      "title": "AI Overview",
+      "link": "https://support.google.com/websearch?p=ai_overviews&hl=en-IN",
+      "list": [
+        "Boosts Energy and Alertness: Coffee's caffeine content can help increase alertness and reduce feelings of fatigue.  ",
+        "May Reduce Risk of Chronic Diseases: Some studies suggest that coffee consumption may be linked to a lower risk of type 2 diabetes, Parkinson's disease, and certain types of cancer.  ",
+        "May Improve Liver Health: Research indicates that coffee consumption may be associated with a reduced risk of liver disease and cirrhosis.  ",
+        "May Support Heart Health: Some studies suggest that moderate coffee consumption may be linked to a lower risk of heart disease and stroke.  ",
+        "Rich in Antioxidants: Coffee is a good source of antioxidants, which can help protect the body against damage from free radicals.  ",
+        "Caffeine Overload: Excessive caffeine intake can lead to anxiety, insomnia, and an increased heart rate.  ",
+        "Heartburn and Acid Reflux: Coffee can trigger heartburn and acid reflux in some individuals.  ",
+        "Urinary Symptoms: Caffeine can increase urinary frequency and urgency.  ",
+        "Interactions with Medications: Coffee can interact with certain medications, so it's important to consult with a doctor if you have any concerns.  ",
+        "Added Sugars and Calories: Many coffee beverages contain added sugars and calories, which can contribute to weight gain and other health problems.  ",
+        "May worsen medical conditions: Caffeine can make medical conditions like heart problems, diabetes, osteoporosis, and others worse when it: Makes your heart work harder and raises your blood pressure. Contributes to panic attacks. Raises blood sugar levels (especially in soda or when sugar is added to coffee and tea)  ",
+        "Moderate Consumption: If you enjoy coffee, aim for moderate consumption, typically up to 3-4 cups per day.  ",
+        "Choose Unsweetened Options: Opt for black coffee or unsweetened coffee beverages to avoid added sugars and calories.  ",
+        "Be Mindful of Caffeine Sensitivity: Pay attention to how your body reacts to caffeine and adjust your intake accordingly.  ",
+        "Consult a Doctor: If you have any underlying health conditions or are concerned about coffee's effects on your health, consult with a doctor or registered dietitian.  "
+      ],
+      "displayed_link": "",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobWJHMXhaMTlXVDJOSllXcDZWamhNWkVoMFJUbEthQzFHTFhSa09UTkxVMDVtVGxOVUxWQjNVV1JJVlZwSlpYbE5aakpDT0RnM2FXaGxURGg2T1dnNFdsQlRNRUo2UTJodGNrODBUMVpUY21wNGVsaG9jMjUxWlhnMFFSSVhNRWczWmxvMmFYSktUWEY1TlU1dlVEYzJaall5UVZVYUlrRkRSRmhNTkdzek9XeGpUSGsxYUZoclpUSTBVV2xNYW5SS1FVVm9ja3RPZDNjIiwiZmN2IjoiMyIsImVpIjoiMEg3Zlo2aXJKTXF5NU5vUDc2ZjYyQVUiLCJxYyI6IkNnWmpiMlptWldVUUFIM1ZJRFFfIiwicXVlc3Rpb24iOiJJcyBjb2ZmZWUgZ29vZCBvciBiYWQgZm9yIGhlYWx0aD8iLCJsayI6IkdpQnBjeUJqYjJabVpXVWdaMjl2WkNCdmNpQmlZV1FnWm05eUlHaGxZV3gwYUEiLCJicyI6ImMtUHk0bEwwTEZaSXprOUxTMDFWU01fUFQxSElMMUpJU2t4UlNBUFNHYW1KT1NVWjloS2JlSXlVcEJReUNhampjdU9TRDg5SUxGRklMRXBWTURSUVNFck5TMDNMTENsV3lFLURhclNYZU1kdHBDQWxWNDVYRlpjSGwwSjRSbVp5QnN3Nm9NVmdHNUdkZEVqWFNGRkt2aHlfTWk0TEpCZVZaS1FxbUNpVVZCYWtvcmpvYXJLUmtKUUFSQUloTHNBSUFBIiwiaWQiOiJmY18wSDdmWjZpckpNcXk1Tm9QNzZmNjJBVV8yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobWJHMXhaMTlXVDJOSllXcDZWamhNWkVoMFJUbEthQzFHTFhSa09UTkxVMDVtVGxOVUxWQjNVV1JJVlZwSlpYbE5aakpDT0RnM2FXaGxURGg2T1dnNFdsQlRNRUo2UTJodGNrODBUMVpUY21wNGVsaG9jMjUxWlhnMFFSSVhNRWczWmxvMmFYSktUWEY1TlU1dlVEYzJaall5UVZVYUlrRkRSRmhNTkdzek9XeGpUSGsxYUZoclpUSTBVV2xNYW5SS1FVVm9ja3RPZDNjIiwiZmN2IjoiMyIsImVpIjoiMEg3Zlo2aXJKTXF5NU5vUDc2ZjYyQVUiLCJxYyI6IkNnWmpiMlptWldVUUFIM1ZJRFFfIiwicXVlc3Rpb24iOiJJcyBjb2ZmZWUgZ29vZCBvciBiYWQgZm9yIGhlYWx0aD8iLCJsayI6IkdpQnBjeUJqYjJabVpXVWdaMjl2WkNCdmNpQmlZV1FnWm05eUlHaGxZV3gwYUEiLCJicyI6ImMtUHk0bEwwTEZaSXprOUxTMDFWU01fUFQxSElMMUpJU2t4UlNBUFNHYW1KT1NVWjloS2JlSXlVcEJReUNhampjdU9TRDg5SUxGRklMRXBWTURSUVNFck5TMDNMTENsV3lFLURhclNYZU1kdHBDQWxWNDVYRlpjSGwwSjRSbVp5QnN3Nm9NVmdHNUdkZEVqWFNGRkt2aHlfTWk0TEpCZVZaS1FxbUNpVVZCYWtvcmpvYXJLUmtKUUFSQUloTHNBSUFBIiwiaWQiOiJmY18wSDdmWjZpckpNcXk1Tm9QNzZmNjJBVV8yIn0%3D"
+    },
+    {
+      "question": "What are 10 benefits of coffee?",
+      "snippet": "",
+      "title": "What health benefits does coffee offer?",
+      "link": "https://www.rush.edu/news/health-benefits-coffee",
+      "list": [
+        "Improve overall health. ... ",
+        "Protect against Type 2 diabetes. ... ",
+        "Control Parkinson's disease symptoms. ... ",
+        "Slow the progress of dementia. ... ",
+        "Safeguard the liver. ... ",
+        "Promote heart health. ... ",
+        "Reduce melanoma risk. ... ",
+        "Lower mortality risk."
+      ],
+      "displayed_link": "https://www.rush.edu › news › health-benefits-coffee",
+      "source_logo": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/ac80961f72160bd248d118795f98111b13c5acc7a9b52e373494106539c01ec6.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobWJHMXhaMTlXVDJOSllXcDZWamhNWkVoMFJUbEthQzFHTFhSa09UTkxVMDVtVGxOVUxWQjNVV1JJVlZwSlpYbE5aakpDT0RnM2FXaGxURGg2T1dnNFdsQlRNRUo2UTJodGNrODBUMVpUY21wNGVsaG9jMjUxWlhnMFFSSVhNRWczWmxvMmFYSktUWEY1TlU1dlVEYzJaall5UVZVYUlrRkRSRmhNTkdzek9XeGpUSGsxYUZoclpUSTBVV2xNYW5SS1FVVm9ja3RPZDNjIiwiZmN2IjoiMyIsImVpIjoiMEg3Zlo2aXJKTXF5NU5vUDc2ZjYyQVUiLCJxYyI6IkNnWmpiMlptWldVUUFIM1ZJRFFfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSAxMCBiZW5lZml0cyBvZiBjb2ZmZWU/IiwibGsiOiJHaDUzYUdGMElHRnlaU0F4TUNCaVpXNWxabWwwY3lCdlppQmpiMlptWldVIiwiYnMiOiJjLVB5NGxMMExGWkl6azlMUzAxVlNNX1BUMUhJTDFKSVNreFJTQVBTR2FtSk9TVVo5aEtiZUl5VXBCUXlDYWpqY3VPU0Q4OUlMRkZJTEVwVk1EUlFTRXJOUzAzTExDbFd5RS1EYXJTWGVNZHRwQ0FsVjQ1WEZaY0hsMEo0Um1aeUJzdzZvTVZnRzVHZGRFalhTRkZLdmh5X01pNExKQmVWWktRcW1DaVVWQmFrb3Jqb2FyS1JrSlFBUkFJaExzQUlBQSIsImlkIjoiZmNfMEg3Zlo2aXJKTXF5NU5vUDc2ZjYyQVVfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobWJHMXhaMTlXVDJOSllXcDZWamhNWkVoMFJUbEthQzFHTFhSa09UTkxVMDVtVGxOVUxWQjNVV1JJVlZwSlpYbE5aakpDT0RnM2FXaGxURGg2T1dnNFdsQlRNRUo2UTJodGNrODBUMVpUY21wNGVsaG9jMjUxWlhnMFFSSVhNRWczWmxvMmFYSktUWEY1TlU1dlVEYzJaall5UVZVYUlrRkRSRmhNTkdzek9XeGpUSGsxYUZoclpUSTBVV2xNYW5SS1FVVm9ja3RPZDNjIiwiZmN2IjoiMyIsImVpIjoiMEg3Zlo2aXJKTXF5NU5vUDc2ZjYyQVUiLCJxYyI6IkNnWmpiMlptWldVUUFIM1ZJRFFfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSAxMCBiZW5lZml0cyBvZiBjb2ZmZWU%2FIiwibGsiOiJHaDUzYUdGMElHRnlaU0F4TUNCaVpXNWxabWwwY3lCdlppQmpiMlptWldVIiwiYnMiOiJjLVB5NGxMMExGWkl6azlMUzAxVlNNX1BUMUhJTDFKSVNreFJTQVBTR2FtSk9TVVo5aEtiZUl5VXBCUXlDYWpqY3VPU0Q4OUlMRkZJTEVwVk1EUlFTRXJOUzAzTExDbFd5RS1EYXJTWGVNZHRwQ0FsVjQ1WEZaY0hsMEo0Um1aeUJzdzZvTVZnRzVHZGRFalhTRkZLdmh5X01pNExKQmVWWktRcW1DaVVWQmFrb3Jqb2FyS1JrSlFBUkFJaExzQUlBQSIsImlkIjoiZmNfMEg3Zlo2aXJKTXF5NU5vUDc2ZjYyQVVfMiJ9"
+    },
+    {
+      "question": "Which coffee is good for health?",
+      "snippet": "Overall, lighter roasts generally have less caffeine and more antioxidants than darker roasts. The type of bean can affect the caffeine content, but both Arabica and Robusta beans can give you the full health benefits of coffee.",
+      "title": "Healthiest Coffee: Types, Preparation, Benefits, and More - ZOE",
+      "date": "19 Mar 2024",
+      "link": "https://zoe.com/learn/healthiest-coffee#:~:text=Overall%2C%20lighter%20roasts%20generally%20have,full%20health%20benefits%20of%20coffee.",
+      "displayed_link": "https://zoe.com › learn › healthiest-coffee",
+      "source_logo": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/ac80961f72160bd248d118795f98111bd609b822928b59e29150f704d1c97ec4.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobWJHMXhaMTlXVDJOSllXcDZWamhNWkVoMFJUbEthQzFHTFhSa09UTkxVMDVtVGxOVUxWQjNVV1JJVlZwSlpYbE5aakpDT0RnM2FXaGxURGg2T1dnNFdsQlRNRUo2UTJodGNrODBUMVpUY21wNGVsaG9jMjUxWlhnMFFSSVhNRWczWmxvMmFYSktUWEY1TlU1dlVEYzJaall5UVZVYUlrRkRSRmhNTkdzek9XeGpUSGsxYUZoclpUSTBVV2xNYW5SS1FVVm9ja3RPZDNjIiwiZmN2IjoiMyIsImVpIjoiMEg3Zlo2aXJKTXF5NU5vUDc2ZjYyQVUiLCJxYyI6IkNnWmpiMlptWldVUUFIM1ZJRFFfIiwicXVlc3Rpb24iOiJXaGljaCBjb2ZmZWUgaXMgZ29vZCBmb3IgaGVhbHRoPyIsImxrIjoiR2g5M2FHbGphQ0JqYjJabVpXVWdhWE1nWjI5dlpDQm1iM0lnYUdWaGJIUm8iLCJicyI6ImMtUHk0bEwwTEZaSXprOUxTMDFWU01fUFQxSElMMUpJU2t4UlNBUFNHYW1KT1NVWjloS2JlSXlVcEJReUNhampjdU9TRDg5SUxGRklMRXBWTURSUVNFck5TMDNMTENsV3lFLURhclNYZU1kdHBDQWxWNDVYRlpjSGwwSjRSbVp5QnN3Nm9NVmdHNUdkZEVqWFNGRkt2aHlfTWk0TEpCZVZaS1FxbUNpVVZCYWtvcmpvYXJLUmtKUUFSQUloTHNBSUFBIiwiaWQiOiJmY18wSDdmWjZpckpNcXk1Tm9QNzZmNjJBVV8yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobWJHMXhaMTlXVDJOSllXcDZWamhNWkVoMFJUbEthQzFHTFhSa09UTkxVMDVtVGxOVUxWQjNVV1JJVlZwSlpYbE5aakpDT0RnM2FXaGxURGg2T1dnNFdsQlRNRUo2UTJodGNrODBUMVpUY21wNGVsaG9jMjUxWlhnMFFSSVhNRWczWmxvMmFYSktUWEY1TlU1dlVEYzJaall5UVZVYUlrRkRSRmhNTkdzek9XeGpUSGsxYUZoclpUSTBVV2xNYW5SS1FVVm9ja3RPZDNjIiwiZmN2IjoiMyIsImVpIjoiMEg3Zlo2aXJKTXF5NU5vUDc2ZjYyQVUiLCJxYyI6IkNnWmpiMlptWldVUUFIM1ZJRFFfIiwicXVlc3Rpb24iOiJXaGljaCBjb2ZmZWUgaXMgZ29vZCBmb3IgaGVhbHRoPyIsImxrIjoiR2g5M2FHbGphQ0JqYjJabVpXVWdhWE1nWjI5dlpDQm1iM0lnYUdWaGJIUm8iLCJicyI6ImMtUHk0bEwwTEZaSXprOUxTMDFWU01fUFQxSElMMUpJU2t4UlNBUFNHYW1KT1NVWjloS2JlSXlVcEJReUNhampjdU9TRDg5SUxGRklMRXBWTURSUVNFck5TMDNMTENsV3lFLURhclNYZU1kdHBDQWxWNDVYRlpjSGwwSjRSbVp5QnN3Nm9NVmdHNUdkZEVqWFNGRkt2aHlfTWk0TEpCZVZaS1FxbUNpVVZCYWtvcmpvYXJLUmtKUUFSQUloTHNBSUFBIiwiaWQiOiJmY18wSDdmWjZpckpNcXk1Tm9QNzZmNjJBVV8yIn0%3D"
+    },
+    {
+      "question": "What are the 4 types of coffee?",
+      "snippet": "The four main coffee types are Arabica, Robusta, Excelsa, and Liberica and all four of them have radically different taste profiles.",
+      "title": "Coffee Bean Types and Their Characteristics - Cafe Direct",
+      "link": "https://www.cafedirect.co.uk/shop/coffee-bean-types-and-their-characteristics/#:~:text=The%20four%20main%20coffee%20types,have%20radically%20different%20taste%20profiles.",
+      "displayed_link": "https://www.cafedirect.co.uk › shop › coffee-bean-types-...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvUj6ZncJRA-6KzNbogWocF1kOJyNif8XIW9gGN958Dg&s",
+      "source_logo": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/ac80961f72160bd248d118795f98111b065e0b6d1b711e83e875a60bc52b7467.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobWJHMXhaMTlXVDJOSllXcDZWamhNWkVoMFJUbEthQzFHTFhSa09UTkxVMDVtVGxOVUxWQjNVV1JJVlZwSlpYbE5aakpDT0RnM2FXaGxURGg2T1dnNFdsQlRNRUo2UTJodGNrODBUMVpUY21wNGVsaG9jMjUxWlhnMFFSSVhNRWczWmxvMmFYSktUWEY1TlU1dlVEYzJaall5UVZVYUlrRkRSRmhNTkdzek9XeGpUSGsxYUZoclpUSTBVV2xNYW5SS1FVVm9ja3RPZDNjIiwiZmN2IjoiMyIsImVpIjoiMEg3Zlo2aXJKTXF5NU5vUDc2ZjYyQVUiLCJxYyI6IkNnWmpiMlptWldVUUFIM1ZJRFFfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNCB0eXBlcyBvZiBjb2ZmZWU/IiwibGsiOiJHaEEwSUhSNWNHVWdiMllnWTI5bVptVmwiLCJicyI6ImMtUHk0bEwwTEZaSXprOUxTMDFWU01fUFQxSElMMUpJU2t4UlNBUFNHYW1KT1NVWjloS2JlSXlVcEJReUNhampjdU9TRDg5SUxGRklMRXBWTURSUVNFck5TMDNMTENsV3lFLURhclNYZU1kdHBDQWxWNDVYRlpjSGwwSjRSbVp5QnN3Nm9NVmdHNUdkZEVqWFNGRkt2aHlfTWk0TEpCZVZaS1FxbUNpVVZCYWtvcmpvYXJLUmtKUUFSQUloTHNBSUFBIiwiaWQiOiJmY18wSDdmWjZpckpNcXk1Tm9QNzZmNjJBVV8yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobWJHMXhaMTlXVDJOSllXcDZWamhNWkVoMFJUbEthQzFHTFhSa09UTkxVMDVtVGxOVUxWQjNVV1JJVlZwSlpYbE5aakpDT0RnM2FXaGxURGg2T1dnNFdsQlRNRUo2UTJodGNrODBUMVpUY21wNGVsaG9jMjUxWlhnMFFSSVhNRWczWmxvMmFYSktUWEY1TlU1dlVEYzJaall5UVZVYUlrRkRSRmhNTkdzek9XeGpUSGsxYUZoclpUSTBVV2xNYW5SS1FVVm9ja3RPZDNjIiwiZmN2IjoiMyIsImVpIjoiMEg3Zlo2aXJKTXF5NU5vUDc2ZjYyQVUiLCJxYyI6IkNnWmpiMlptWldVUUFIM1ZJRFFfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNCB0eXBlcyBvZiBjb2ZmZWU%2FIiwibGsiOiJHaEEwSUhSNWNHVWdiMllnWTI5bVptVmwiLCJicyI6ImMtUHk0bEwwTEZaSXprOUxTMDFWU01fUFQxSElMMUpJU2t4UlNBUFNHYW1KT1NVWjloS2JlSXlVcEJReUNhampjdU9TRDg5SUxGRklMRXBWTURSUVNFck5TMDNMTENsV3lFLURhclNYZU1kdHBDQWxWNDVYRlpjSGwwSjRSbVp5QnN3Nm9NVmdHNUdkZEVqWFNGRkt2aHlfTWk0TEpCZVZaS1FxbUNpVVZCYWtvcmpvYXJLUmtKUUFSQUloTHNBSUFBIiwiaWQiOiJmY18wSDdmWjZpckpNcXk1Tm9QNzZmNjJBVV8yIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Coffee",
+      "link": "https://en.wikipedia.org/wiki/Coffee",
+      "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Coffee&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQFnoECF0QAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › Coffee",
+      "thumbnail": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/f59abe4677ea9d742b350859382f8bca7d12c5fc4f3215f3bb607c6d2787817f.jpeg",
+      "favicon": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/f59abe4677ea9d742b350859382f8bcab36e8a91174e1b32e983facf9836121d.png",
+      "snippet": "Coffee is a beverage brewed from roasted, ground coffee beans. Darkly colored, bitter, and slightly acidic, coffee has a stimulating effect on humans, ...",
+      "snippet_highlighted_words": [
+        "Coffee"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Coffee production in India",
+            "link": "https://en.wikipedia.org/wiki/Coffee_production_in_India"
+          },
+          {
+            "title": "History",
+            "link": "https://en.wikipedia.org/wiki/History_of_coffee"
+          },
+          {
+            "title": "Coffee bean",
+            "link": "https://en.wikipedia.org/wiki/Coffee_bean"
+          },
+          {
+            "title": "Coffee preparation",
+            "link": "https://en.wikipedia.org/wiki/Coffee_preparation"
+          }
+        ]
+      },
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Buy Coffee Powder Online at Best Price in India",
+      "link": "https://www.amazon.in/Coffee-Espresso/b?ie=UTF8&node=4860057031",
+      "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.in/Coffee-Espresso/b%3Fie%3DUTF8%26node%3D4860057031&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQFnoECFUQAQ",
+      "displayed_link": "https://www.amazon.in › Coffee-Espresso",
+      "favicon": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/f59abe4677ea9d742b350859382f8bcaa4b3c8c0dd0e3ee771c3fb59a3bddd57.png",
+      "snippet": "Shop one of the Best Coffee Powder Online on Amazon.in. Buy various Coffee Powder like Instant Coffee Powder, Roasted Coffee Powder and more @upto 70% off.",
+      "snippet_highlighted_words": [
+        "Instant Coffee Powder, Roasted Coffee Powder"
+      ],
+      "source": "Amazon.in"
+    },
+    {
+      "position": 3,
+      "title": "Sleepy Owl Coffee",
+      "link": "https://sleepyowl.co/?srsltid=AfmBOooRInUyUp3E3WSU8d01l5YQXpZ0BV7RRCQNCcRIsYrA3V3so2T0",
+      "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=https://sleepyowl.co/%3Fsrsltid%3DAfmBOooRInUyUp3E3WSU8d01l5YQXpZ0BV7RRCQNCcRIsYrA3V3so2T0&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQFnoECGAQAQ",
+      "displayed_link": "https://sleepyowl.co",
+      "thumbnail": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/f59abe4677ea9d742b350859382f8bcadea3e073f118cdc7de870069b3c745a7.jpeg",
+      "favicon": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/f59abe4677ea9d742b350859382f8bcad49678c561ee965ff9f61c30b452dccb.png",
+      "snippet": "Made with specially sourced 100% arabica beans, our Premium Instant Coffee comes in many flavours including French Vanilla, Original, Hazelnut and the ...",
+      "snippet_highlighted_words": [
+        "Premium Instant Coffee"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Ground Coffee & Beans",
+            "link": "https://sleepyowl.co/collections/ground-coffee"
+          },
+          {
+            "title": "Best Coffee Blog for Coffee...",
+            "link": "https://sleepyowl.co/blogs/news"
+          },
+          {
+            "title": "Coffee Merchandise",
+            "link": "https://sleepyowl.co/collections/coffee-merchandise"
+          }
+        ]
+      },
+      "source": "Sleepy Owl Coffee"
+    },
+    {
+      "position": 4,
+      "title": "Buy Coffee Online in India - Flavoured Coffee | Country Bean",
+      "link": "https://countrybean.in/collections/coffee",
+      "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=https://countrybean.in/collections/coffee&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQFnoECFkQAQ",
+      "displayed_link": "https://countrybean.in › ... › Original Instant Coffee 100g",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_7MflfPcNVgX_H2NRUp1WVvGZ5EIoa581QWiwnfiTF-9rRImJWTH4&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/f59abe4677ea9d742b350859382f8bcaf0105bd1c55b764b0b36307e103016da.png",
+      "snippet": "Country Bean offers a wide range of flavoured coffee online in India. Our flavoured instant coffee is gluten free and made with 100% freeze-dried arabica ...",
+      "snippet_highlighted_words": [
+        "Country Bean offers a wide range of flavoured coffee online in"
+      ],
+      "source": "Country Bean"
+    },
+    {
+      "position": 5,
+      "title": "Freshly Roasted 100% Organic, Arabica Coffee Beans & ...",
+      "link": "https://www.arakucoffee.in/collections/coffee?srsltid=AfmBOorLEqU6oxu6ffErJkRsjxBTHJV1i5StayV7e596COwXIHW3jmy3",
+      "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.arakucoffee.in/collections/coffee%3Fsrsltid%3DAfmBOorLEqU6oxu6ffErJkRsjxBTHJV1i5StayV7e596COwXIHW3jmy3&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQFnoECFoQAQ",
+      "displayed_link": "https://www.arakucoffee.in › collections › coffee",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtI0VPhA_Q_hYCjqALjZ7OU64hNfn-mrDdDj83q49-xNKYwH-fxPg&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/f59abe4677ea9d742b350859382f8bca1cff1e1845b3f179fe7566da0d0409fd.png",
+      "snippet": "All coffees are 100% Arabica, freshly roasted, available as whole beans or ground, and nitrogen flushed for optimum freshness.",
+      "snippet_highlighted_words": [
+        "All coffees are 100% Arabica, freshly roasted"
+      ],
+      "source": "Araku Coffee India"
+    },
+    {
+      "position": 6,
+      "title": "Coffee | Origin, Types, Uses, History, & Facts",
+      "link": "https://www.britannica.com/topic/coffee",
+      "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britannica.com/topic/coffee&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQFnoFCIoBEAE",
+      "displayed_link": "https://www.britannica.com › ... › Food",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScloDyHFCm3GgGh86jwXll3d4-nFxLcQBNKSp-NHYjWHJW0d7WqlGC&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/f59abe4677ea9d742b350859382f8bca01e9dd97a51ed4ebb86b6672ca37caaa.png",
+      "snippet": "5 days ago —",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "History of coffee",
+            "link": "https://www.britannica.com/topic/history-of-coffee"
+          },
+          {
+            "title": "Using coffee",
+            "link": "https://www.britannica.com/topic/coffee/Using-coffee"
+          },
+          {
+            "title": "Decaffeinated coffee",
+            "link": "https://www.britannica.com/topic/decaffeinated-coffee"
+          },
+          {
+            "title": "Instant coffee",
+            "link": "https://www.britannica.com/topic/instant-coffee"
+          }
+        ]
+      },
+      "source": "Britannica"
+    },
+    {
+      "position": 7,
+      "title": "Coffee - Price - Chart - Historical Data - News",
+      "link": "https://tradingeconomics.com/commodity/coffee",
+      "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=https://tradingeconomics.com/commodity/coffee&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQFnoECFYQAQ",
+      "displayed_link": "https://tradingeconomics.com › Commodity",
+      "favicon": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/f59abe4677ea9d742b350859382f8bca1a0712447bc51a877cef50ee39badf0a.png",
+      "snippet": "Coffee increased 69.29 USd/Lbs or 21.62% since the beginning of 2025, according to trading on a contract for difference (CFD) that tracks the benchmark market ...",
+      "snippet_highlighted_words": [
+        "Coffee increased 69.29 USd/Lbs"
+      ],
+      "source": "Trading Economics"
+    },
+    {
+      "position": 8,
+      "title": "Buy Premium Ground Coffee Powder & Beans Online",
+      "link": "https://coffeeza.in/collections/ground-coffee?srsltid=AfmBOor3QxjdIGW7xAbKpR_7CJ7QbM7v5WY-91aQqaul5O0eKhkdAD36",
+      "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=https://coffeeza.in/collections/ground-coffee%3Fsrsltid%3DAfmBOor3QxjdIGW7xAbKpR_7CJ7QbM7v5WY-91aQqaul5O0eKhkdAD36&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQFnoECFcQAQ",
+      "displayed_link": "https://coffeeza.in › collections › ground-coffee",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJHM-gSRPh0uSaCb6ymzlFZAjNlAcaoerQ0HnQAP_fTUfYS9utLWgB&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/f59abe4677ea9d742b350859382f8bca119cbda20b06295bf3c85b0005c626fb.png",
+      "snippet": "Explore Coffeeza's premium gourmet ground coffee collection online. Buy ground coffee powder crafted from the finest beans, perfect for brewing rich and ...",
+      "snippet_highlighted_words": [
+        "Explore Coffeeza's premium gourmet ground coffee collection online"
+      ],
+      "source": "Coffeeza"
+    },
+    {
+      "position": 9,
+      "title": "Coffee - The Nutrition Source - Harvard University",
+      "link": "https://nutritionsource.hsph.harvard.edu/food-features/coffee/",
+      "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=https://nutritionsource.hsph.harvard.edu/food-features/coffee/&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQFnoECFgQAQ",
+      "displayed_link": "https://nutritionsource.hsph.harvard.edu › food-features",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNO-0LapqM3JQdt21pzBBppzh1IpFsCPOrwNimVez_h8bwNRpsD0rA&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/f59abe4677ea9d742b350859382f8bca0ac749fa15d0503dc562303c2821ae23.png",
+      "snippet": "A plain “black” cup of coffee is a very low calorie drink—8 ounces only contains 2 calories! However, adding sugar, cream, and milk can quickly bump up the ...",
+      "snippet_highlighted_words": [
+        "a very low calorie drink"
+      ],
+      "source": "The Nutrition Source"
+    },
+    {
+      "position": 10,
+      "title": "What is coffee? - NCA - About Coffee",
+      "link": "https://www.aboutcoffee.org/origins/what-is-coffee/",
+      "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aboutcoffee.org/origins/what-is-coffee/&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQFnoECGEQAQ",
+      "displayed_link": "https://www.aboutcoffee.org › Origins",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0BjQhb_djMD_AOoW9kD4Qli5eKdDVEEMeFiald8Jvh05Ykvtzqwop&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/67df7ed0d95c7ed40514fc2e/images/f59abe4677ea9d742b350859382f8bcaab8094d768d7b4513644629016b5875f.png",
+      "snippet": "What is coffee made of? Learn about the coffee tree, its lifespan, how it produces coffee beans, and the two most common coffee species, ...",
+      "snippet_highlighted_words": [
+        "Learn about the coffee tree, its lifespan, how it produces coffee beans"
+      ],
+      "source": "aboutcoffee.org"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Coffee powder",
+      "link": "https://www.google.co.in/search?sca_esv=3792e63440ca6429&hl=en&gl=in&q=Coffee+powder&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQ1QJ6BQiJARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee+powder"
+    },
+    {
+      "block_position": 1,
+      "query": "Coffee benefits",
+      "link": "https://www.google.co.in/search?sca_esv=3792e63440ca6429&hl=en&gl=in&q=Coffee+benefits&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQ1QJ6BQiIARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Coffee near me",
+      "link": "https://www.google.co.in/search?sca_esv=3792e63440ca6429&hl=en&gl=in&q=Coffee+near+me&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQ1QJ6BQiGARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Bevzilla Coffee",
+      "link": "https://www.google.co.in/search?sca_esv=3792e63440ca6429&hl=en&gl=in&q=Bevzilla+Coffee&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQ1QJ6BQiHARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Bevzilla+Coffee"
+    },
+    {
+      "block_position": 1,
+      "query": "Coffee Machine",
+      "link": "https://www.google.co.in/search?sca_esv=3792e63440ca6429&hl=en&gl=in&q=Coffee+Machine&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQ1QJ6BQiFARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee+Machine"
+    },
+    {
+      "block_position": 1,
+      "query": "Coffee images",
+      "link": "https://www.google.co.in/search?sca_esv=3792e63440ca6429&hl=en&gl=in&q=Coffee+images&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQ1QJ6BQiEARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee+images"
+    },
+    {
+      "block_position": 1,
+      "query": "Coffee price",
+      "link": "https://www.google.co.in/search?sca_esv=3792e63440ca6429&hl=en&gl=in&q=Coffee+price&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQ1QJ6BQiDARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Coffee beans",
+      "link": "https://www.google.co.in/search?sca_esv=3792e63440ca6429&hl=en&gl=in&q=Coffee+beans&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQ1QJ6BQiCARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee+beans"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Price",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=price+coffee&shoprs=GBIqBmNvZmZlZTIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKAF6BQguEIUB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=price+coffee"
+    },
+    {
+      "query": "Whole Bean",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=whole+bean+coffee&shoprs=GAEqBmNvZmZlZTIaCAESCldob2xlIEJlYW46Cgju_jgQ8f44MAJYt8sfYAE&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKAJ6BQguEIYB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=whole+bean+coffee"
+    },
+    {
+      "query": "In shop",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=Coffee+nearby&shoprs=GAMqBmNvZmZlZTINCAMSB0luIHNob3AYAli3yx9gAQ&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKAN6BQguEIcB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee+nearby"
+    },
+    {
+      "query": "Brand",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=brand+coffee&shoprs=GBIqBmNvZmZlZTIJCBISBUJyYW5kYAE&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKAR6BQguEIgB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=brand+coffee"
+    },
+    {
+      "query": "NESCAFÉ",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=nescaf%C3%89+coffee&shoprs=GAEqBmNvZmZlZTIYCAESCE5FU0NBRsOJOgoIg_M8ENWSQDABWLfLH2AB&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKAV6BQguEIkB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=nescaf%C3%89+coffee"
+    },
+    {
+      "query": "Starbucks",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=starbucks+coffee&shoprs=GAEqBmNvZmZlZTIZCAESCVN0YXJidWNrczoKCIPzPBCdmUAwAVi3yx9gAQ&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKAZ6BQguEIoB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=starbucks+coffee"
+    },
+    {
+      "query": "Images",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=images+coffee&shoprs=GBIqBmNvZmZlZTIKCBISBkltYWdlc2AB&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKAd6BQguEIsB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=images+coffee"
+    },
+    {
+      "query": "Instant",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=instant+coffee&shoprs=GAEqBmNvZmZlZTIXCAESB0luc3RhbnQ6Cgju_jgQ8P44MAJYt8sfYAE&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKAh6BQguEIwB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=instant+coffee"
+    },
+    {
+      "query": "Online",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=online+coffee&shoprs=GBIqBmNvZmZlZTIKCBISBk9ubGluZWAB&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKAl6BQguEI0B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=online+coffee"
+    },
+    {
+      "query": "Recipe",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=recipe+coffee&shoprs=GBIqBmNvZmZlZTIKCBISBlJlY2lwZWAB&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKAp6BQguEI4B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=recipe+coffee"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=black+coffee&shoprs=GAEqBmNvZmZlZTIXCAESBUJsYWNrOgwI2Iz1ARDlivUBMAtYt8sfYAE&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKAt6BQguEI8B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=black+coffee"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=buy+coffee&shoprs=GBIqBmNvZmZlZTIHCBISA0J1eWAB&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKAx6BQguEJAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=buy+coffee"
+    },
+    {
+      "query": "Bag",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=bag+coffee&shoprs=GAEqBmNvZmZlZTITCAESA0JhZzoKCIGdZRCEnWUwAFi3yx9gAQ&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKA16BQguEJEB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=bag+coffee"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=white+coffee&shoprs=GAEqBmNvZmZlZTIXCAESBVdoaXRlOgwI2Iz1ARChi_UBMAtYt8sfYAE&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKA56BQguEJIB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=white+coffee"
+    },
+    {
+      "query": "Gold",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=gold+coffee&shoprs=GAEqBmNvZmZlZTIWCAESBEdvbGQ6DAjYjPUBENuL9QEwC1i3yx9gAQ&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKA96BQguEJMB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=gold+coffee"
+    },
+    {
+      "query": "Chocolate",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=chocolate+coffee&shoprs=GAEqBmNvZmZlZTIZCAESCUNob2NvbGF0ZToKCIidZRCMnWUwAFi3yx9gAQ&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKBB6BQguEJQB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=chocolate+coffee"
+    },
+    {
+      "query": "Bevzilla.co",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=bevzilla.co+coffee&shoprs=GAIqBmNvZmZlZTIPCAISC0JldnppbGxhLmNvWLfLH2AB&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKBF6BQguEJUB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=bevzilla.co+coffee"
+    },
+    {
+      "query": "Ground",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=ground+coffee&shoprs=GAEqBmNvZmZlZTIWCAESBkdyb3VuZDoKCO7-OBDv_jgwAli3yx9gAQ&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKBJ6BQguEJYB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=ground+coffee"
+    },
+    {
+      "query": "Pack",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=pack+coffee&shoprs=GBIqBmNvZmZlZTIICBISBFBhY2tgAQ&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKBN6BQguEJcB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=pack+coffee"
+    },
+    {
+      "query": "Red",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=red+coffee&shoprs=GAEqBmNvZmZlZTIVCAESA1JlZDoMCNiM9QEQ54r1ATALWLfLH2AB&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKBR6BQguEJgB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=red+coffee"
+    },
+    {
+      "query": "Green",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=green+coffee&shoprs=GAEqBmNvZmZlZTIXCAESBUdyZWVuOgwI2Iz1ARDoivUBMAtYt8sfYAE&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKBV6BQguEJkB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=green+coffee"
+    },
+    {
+      "query": "Usa",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=usa+coffee&shoprs=GBIqBmNvZmZlZTIHCBISA1VzYWAB&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKBZ6BQguEJoB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=usa+coffee"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=Coffee+sale&shoprs=EgRKAggBGAYqBmNvZmZlZTITCAYSB09uIHNhbGUYAiIESgIIAVi3yx9gAQ&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKBd6BQguEJsB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee+sale"
+    },
+    {
+      "query": "Bottle",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=bottle+coffee&shoprs=GAEqBmNvZmZlZTIWCAESBkJvdHRsZToKCIGdZRCFnWUwAFi3yx9gAQ&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKBh6BQguEJwB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=bottle+coffee"
+    },
+    {
+      "query": "Sleepy Owl Coffee",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=sleepy+owl+coffee+&shoprs=GAIqBmNvZmZlZTIVCAISEVNsZWVweSBPd2wgQ29mZmVlWLfLH2AB&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKBl6BQguEJ0B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=sleepy+owl+coffee+"
+    },
+    {
+      "query": "Store",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=store+coffee&shoprs=GBIqBmNvZmZlZTIJCBISBVN0b3JlYAE&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKBp6BQguEJ4B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=store+coffee"
+    },
+    {
+      "query": "Man",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=man+coffee&shoprs=GBIqBmNvZmZlZTIHCBISA01hbmAB&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKBt6BQguEJ8B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=man+coffee"
+    },
+    {
+      "query": "Under ₹1,500",
+      "link": "https://www.google.co.in/search?hl=en&gl=in&q=Coffee+under+1500&shoprs=Eg0SCxEAAADAC1rWQRgBGAUqBmNvZmZlZTInCAUSDlVuZGVyIOKCuTEsNTAwGAIiDRILEQAAAMALWtZBGAEqAhgBWLfLH2AB&sa=X&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQip4GKBx6BQguEKAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee+under+1500"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.co.in/search?q=Coffee&sca_esv=3792e63440ca6429&hl=en&gl=in&ei=0H7fZ6irJMqy5NoP76f62AU&start=10&sa=N&sstk=Af40H4WAY2iVa9IcApS6NOklLzZWyzwYDvcnLplFh8DwBj4yALNtvgXGXl41EECSvvlk6DbOYKRWt-Nz2E-pjiDrMnSRnSZ80Pk_yQ&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQ8NMDegQICBAW",
+    "other_pages": {
+      "2": "https://www.google.co.in/search?q=Coffee&sca_esv=3792e63440ca6429&hl=en&gl=in&ei=0H7fZ6irJMqy5NoP76f62AU&start=10&sa=N&sstk=Af40H4WAY2iVa9IcApS6NOklLzZWyzwYDvcnLplFh8DwBj4yALNtvgXGXl41EECSvvlk6DbOYKRWt-Nz2E-pjiDrMnSRnSZ80Pk_yQ&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQ8tMDegQICBAE",
+      "3": "https://www.google.co.in/search?q=Coffee&sca_esv=3792e63440ca6429&hl=en&gl=in&ei=0H7fZ6irJMqy5NoP76f62AU&start=20&sa=N&sstk=Af40H4WAY2iVa9IcApS6NOklLzZWyzwYDvcnLplFh8DwBj4yALNtvgXGXl41EECSvvlk6DbOYKRWt-Nz2E-pjiDrMnSRnSZ80Pk_yQ&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQ8tMDegQICBAG",
+      "4": "https://www.google.co.in/search?q=Coffee&sca_esv=3792e63440ca6429&hl=en&gl=in&ei=0H7fZ6irJMqy5NoP76f62AU&start=30&sa=N&sstk=Af40H4WAY2iVa9IcApS6NOklLzZWyzwYDvcnLplFh8DwBj4yALNtvgXGXl41EECSvvlk6DbOYKRWt-Nz2E-pjiDrMnSRnSZ80Pk_yQ&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQ8tMDegQICBAI",
+      "5": "https://www.google.co.in/search?q=Coffee&sca_esv=3792e63440ca6429&hl=en&gl=in&ei=0H7fZ6irJMqy5NoP76f62AU&start=40&sa=N&sstk=Af40H4WAY2iVa9IcApS6NOklLzZWyzwYDvcnLplFh8DwBj4yALNtvgXGXl41EECSvvlk6DbOYKRWt-Nz2E-pjiDrMnSRnSZ80Pk_yQ&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQ8tMDegQICBAK",
+      "6": "https://www.google.co.in/search?q=Coffee&sca_esv=3792e63440ca6429&hl=en&gl=in&ei=0H7fZ6irJMqy5NoP76f62AU&start=50&sa=N&sstk=Af40H4WAY2iVa9IcApS6NOklLzZWyzwYDvcnLplFh8DwBj4yALNtvgXGXl41EECSvvlk6DbOYKRWt-Nz2E-pjiDrMnSRnSZ80Pk_yQ&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQ8tMDegQICBAM",
+      "7": "https://www.google.co.in/search?q=Coffee&sca_esv=3792e63440ca6429&hl=en&gl=in&ei=0H7fZ6irJMqy5NoP76f62AU&start=60&sa=N&sstk=Af40H4WAY2iVa9IcApS6NOklLzZWyzwYDvcnLplFh8DwBj4yALNtvgXGXl41EECSvvlk6DbOYKRWt-Nz2E-pjiDrMnSRnSZ80Pk_yQ&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQ8tMDegQICBAO",
+      "8": "https://www.google.co.in/search?q=Coffee&sca_esv=3792e63440ca6429&hl=en&gl=in&ei=0H7fZ6irJMqy5NoP76f62AU&start=70&sa=N&sstk=Af40H4WAY2iVa9IcApS6NOklLzZWyzwYDvcnLplFh8DwBj4yALNtvgXGXl41EECSvvlk6DbOYKRWt-Nz2E-pjiDrMnSRnSZ80Pk_yQ&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQ8tMDegQICBAQ",
+      "9": "https://www.google.co.in/search?q=Coffee&sca_esv=3792e63440ca6429&hl=en&gl=in&ei=0H7fZ6irJMqy5NoP76f62AU&start=80&sa=N&sstk=Af40H4WAY2iVa9IcApS6NOklLzZWyzwYDvcnLplFh8DwBj4yALNtvgXGXl41EECSvvlk6DbOYKRWt-Nz2E-pjiDrMnSRnSZ80Pk_yQ&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQ8tMDegQICBAS",
+      "10": "https://www.google.co.in/search?q=Coffee&sca_esv=3792e63440ca6429&hl=en&gl=in&ei=0H7fZ6irJMqy5NoP76f62AU&start=90&sa=N&sstk=Af40H4WAY2iVa9IcApS6NOklLzZWyzwYDvcnLplFh8DwBj4yALNtvgXGXl41EECSvvlk6DbOYKRWt-Nz2E-pjiDrMnSRnSZ80Pk_yQ&ved=2ahUKEwio06mmoJ-MAxVKGVkFHe-THlsQ8tMDegQICBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=India&q=Coffee&start=90"
+    }
+  }
+}
